@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-  int boss
-  int boj
+  int mcHP = 100
+  int mcATK = 10
   
 }
